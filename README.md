@@ -8,21 +8,21 @@ https://www.unibo.it/en/study/phd-professional-masters-specialisation-schools-an
 ## Learning outcomes
 By the end of the course, the students know the basics of programming in Python and the usage of the main Python libraries for statistical analysis and acquire the skills to carry out case studies using the Python language.
 
-### Course contents
-- Python programming
-  Interactive programming environments
-  Variables, expressions and types
-  Lists and Dictionaries
-  Conditional and loop statements
-- Data handling with Pandas
-  Pandas Dataframe
-  Column and row handling
-  Grouped Data
-  Data ingestion .csv and .json files
-- Data visualisation with Pandas and Seaborn
-  Introduction to visualization
-  Pandas plotting functions
-  Seaborn plotting functions
+## Course contents
+### Python programming
+- Interactive programming environments
+- Variables, expressions and types
+- Lists and Dictionaries
+- Conditional and loop statements
+### Data handling with Pandas
+- Pandas Dataframe
+- Column and row handling
+- Grouped Data
+- Data ingestion .csv and .json files
+### Data visualization with Pandas and Seaborn
+- Introduction to visualization
+- Pandas plotting functions
+- Seaborn plotting functions
 
 
 ## Teaching tools
